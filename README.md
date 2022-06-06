@@ -9,3 +9,17 @@
 2.A smart contract is a small program whose source code is written in the blockchain. It performs the functions described by the creator, as a rule, it works with data.
 
 3.The script is an operation to request data from a smart contract or "read" the blockchain, it's free. A transaction is an entry into the blockchain of data according to the rules described in the smart contract, it costs "gas".
+
+
+## chapter 1 day 2
+
+###LFG!!!!
+
+1.Safe - because of the structure of the language
+  Clarity - easy to read language 
+  Approachability - easy to write language 
+  Developer Experience - easy to track errors in the code
+  Resource Oriented Programming - resources are what we will need to work with.
+
+
+2.This is a language specially created for smart contracts. The laconically constructed structure makes it easy to audit the code. Which increases the security and clarity of the code. The language is designed in such a way, that you can easily to learn to write the code not only with experience but also without programming skills. Cadence is resource-oriented, which makes it unique and helps a lot in working with blockchain.
