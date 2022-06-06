@@ -16,10 +16,10 @@
 ###LFG!!!!
 
 1.Safe - because of the structure of the language<br/>
-  Clarity - easy to read language 
-  Approachability - easy to write language 
-  Developer Experience - easy to track errors in the code
-  Resource Oriented Programming - resources are what we will need to work with.
+  Clarity - easy to read language <br/>
+  Approachability - easy to write language <br/>
+  Developer Experience - easy to track errors in the code<br/>
+  Resource Oriented Programming - resources are what we will need to work with.<br/>
 
 
 2.This is a language specially created for smart contracts. The laconically constructed structure makes it easy to audit the code. Which increases the security and clarity of the code. The language is designed in such a way, that you can easily to learn to write the code not only with experience but also without programming skills. Cadence is resource-oriented, which makes it unique and helps a lot in working with blockchain.
