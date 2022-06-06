@@ -10,12 +10,12 @@
 
 3.The script is an operation to request data from a smart contract or "read" the blockchain, it's free. A transaction is an entry into the blockchain of data according to the rules described in the smart contract, it costs "gas".
 
-
+<br/>
 ## chapter 1 day 2
 
 ###LFG!!!!
 
-1.Safe - because of the structure of the language
+1.Safe - because of the structure of the language<br/>
   Clarity - easy to read language 
   Approachability - easy to write language 
   Developer Experience - easy to track errors in the code
