@@ -34,5 +34,14 @@ LFG!!!!
 
 
 ## chapter 2 day 2
-
-
+1. We can't call the "changeGreeting" function because it writes(!) data to the contract.
+2. To start a transaction, you will need to perform authorization (For example in Blocto)
+3. With the "prepare" function there is access to the information/data in my account. With "execute" function we can change data on blockchain. The "prepare" function also can change data on blockchain, but for the cleanliness of the code, it is not recommended.
+4. Contract
+ <img width="1156" alt="2 2 1" src="https://user-images.githubusercontent.com/68229318/172954537-7b232ed2-e300-4c2d-8af8-deb9fb731e76.png">
+Script
+<img width="1159" alt="2 2 2" src="https://user-images.githubusercontent.com/68229318/172954603-63df644d-e2be-4e47-96da-239b9b34ee9c.png">
+Transaction
+<img width="1158" alt="2 2 3" src="https://user-images.githubusercontent.com/68229318/172954645-8402e00d-2682-4fb4-add0-b9e88083d6e8.png">
+LFG!
+<img width="395" alt="2 2 4" src="https://user-images.githubusercontent.com/68229318/172954713-f2708409-c2cc-4455-af69-2ff27ed69cb1.png">
