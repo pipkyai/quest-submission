@@ -22,3 +22,10 @@ LFG!!!!
 
 
 2.This is a language specially created for smart contracts. The laconically constructed structure makes it easy to audit the code. Which increases the security and clarity of the code. The language is designed in such a way, that you can easily to learn to write the code not only with experience but also without programming skills. Cadence is resource-oriented, which makes it unique and helps a lot in working with blockchain.
+
+
+
+## chapter 2 day 1
+
+<img width="1166" alt="2 1 1" src="https://user-images.githubusercontent.com/68229318/172945673-e4f17fe6-dafe-4e6f-83f6-a1662ef25df0.png">
+
