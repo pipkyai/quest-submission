@@ -27,5 +27,12 @@ LFG!!!!
 
 ## chapter 2 day 1
 
+1. 
 <img width="1166" alt="2 1 1" src="https://user-images.githubusercontent.com/68229318/172945673-e4f17fe6-dafe-4e6f-83f6-a1662ef25df0.png">
+2.
+<img width="1173" alt="2 1 2" src="https://user-images.githubusercontent.com/68229318/172946314-8a1d2b72-adae-4b8d-91b7-ec2e6fd881b4.png">
+
+
+## chapter 2 day 2
+
 
