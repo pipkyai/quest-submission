@@ -43,5 +43,5 @@ Script
 <img width="1159" alt="2 2 2" src="https://user-images.githubusercontent.com/68229318/172954603-63df644d-e2be-4e47-96da-239b9b34ee9c.png">
 Transaction
 <img width="1158" alt="2 2 3" src="https://user-images.githubusercontent.com/68229318/172954645-8402e00d-2682-4fb4-add0-b9e88083d6e8.png">
-LFG!
+Done!
 <img width="395" alt="2 2 4" src="https://user-images.githubusercontent.com/68229318/172954713-f2708409-c2cc-4455-af69-2ff27ed69cb1.png">
