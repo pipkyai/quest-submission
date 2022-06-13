@@ -45,3 +45,16 @@ Transaction
 <img width="1158" alt="2 2 3" src="https://user-images.githubusercontent.com/68229318/172954645-8402e00d-2682-4fb4-add0-b9e88083d6e8.png">
 Done!
 <img width="395" alt="2 2 4" src="https://user-images.githubusercontent.com/68229318/172954713-f2708409-c2cc-4455-af69-2ff27ed69cb1.png">
+
+
+## chapter 2 day 3
+1.Array with favourte people.
+<img width="1150" alt="1" src="https://user-images.githubusercontent.com/68229318/173402867-62369892-7980-4932-af43-2ce7cab7e887.png">
+2.My favourite apps rating.
+<img width="1158" alt="2" src="https://user-images.githubusercontent.com/68229318/173403120-2eb31a51-cc02-4b5e-b49a-327ae7c0d24c.png">
+3.The (!) operator warns us that one of the required values does not contain the data necessary for the further operation of the program.
+4.The error indicates that the type of data we expect to receive does not match the one being sent. We got this error because we didn't warn the compiler about it. We can fix this error by adding (!) or (?) operators.
+Add (!) operator
+<img width="681" alt="Снимок экрана 2022-06-13 в 20 14 31" src="https://user-images.githubusercontent.com/68229318/173408698-25d048e7-13d2-4660-83f6-feb01224fd5e.png">
+Add (?) operator
+<img width="747" alt="Снимок экрана 2022-06-13 в 20 15 12" src="https://user-images.githubusercontent.com/68229318/173408746-f926252c-0695-4d6c-917a-9277426b5e85.png">
