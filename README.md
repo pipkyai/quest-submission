@@ -53,6 +53,7 @@ Done!
 2.My favourite apps rating.
 <img width="1158" alt="2" src="https://user-images.githubusercontent.com/68229318/173403120-2eb31a51-cc02-4b5e-b49a-327ae7c0d24c.png">
 3.The (!) operator warns us that one of the required values does not contain the data necessary for the further operation of the program.
+
 4.The error indicates that the type of data we expect to receive does not match the one being sent. We got this error because we didn't warn the compiler about it. We can fix this error by adding (!) or (?) operators:
 
 <img width="681" alt="Снимок экрана 2022-06-13 в 20 14 31" src="https://user-images.githubusercontent.com/68229318/173408698-25d048e7-13d2-4660-83f6-feb01224fd5e.png">
