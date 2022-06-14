@@ -71,4 +71,5 @@ Done!
 
 3. Create a function for addiing new monsters
 
-<img width="1089" alt="Снимок экрана 2022-06-14 в 15 44 50" src="https://user-images.githubusercontent.com/68229318/173580176-a47102ad-cc7c-412b-8584-41133cbb53a9.png">
+
+<img width="1064" alt="Снимок экрана 2022-06-14 в 15 46 21" src="https://user-images.githubusercontent.com/68229318/173580485-c9b45dde-4fc8-4c78-9954-79a7df61c77e.png">
