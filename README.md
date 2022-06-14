@@ -61,6 +61,7 @@ Done!
 <img width="747" alt="Снимок экрана 2022-06-13 в 20 15 12" src="https://user-images.githubusercontent.com/68229318/173408746-f926252c-0695-4d6c-917a-9277426b5e85.png">
 
 ## chapter 2 day 4
-Deploying contract full of monsters
-<img width="1152" alt="2 4 1" src="https://user-images.githubusercontent.com/68229318/173576035-142656b8-264c-438d-a6e3-f427ce55deaa.png">
+1.Deploying contract full of monsters
+<img width="1150" alt="2 4 1" src="https://user-images.githubusercontent.com/68229318/173578219-9f2f8162-ac0f-42e7-9e9a-cc779fc0d941.png">
+2.
 
