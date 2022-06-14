@@ -73,3 +73,9 @@ Done!
 
 
 <img width="1064" alt="Снимок экрана 2022-06-14 в 15 46 21" src="https://user-images.githubusercontent.com/68229318/173580485-c9b45dde-4fc8-4c78-9954-79a7df61c77e.png">
+
+4.Make a transaction and create a monster for each account
+<img width="1134" alt="Снимок экрана 2022-06-14 в 16 03 44" src="https://user-images.githubusercontent.com/68229318/173584396-1021923e-94bd-4665-b550-16b9a8e68fdf.png">
+
+5. Let's take a look at the monsters that users have created
+<img width="1152" alt="Снимок экрана 2022-06-14 в 16 19 15" src="https://user-images.githubusercontent.com/68229318/173587308-46394cf6-f6c6-47c5-9685-8242763af31a.png">
