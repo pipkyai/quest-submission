@@ -63,5 +63,6 @@ Done!
 ## chapter 2 day 4
 1.Deploying contract full of monsters
 <img width="1150" alt="2 4 1" src="https://user-images.githubusercontent.com/68229318/173578219-9f2f8162-ac0f-42e7-9e9a-cc779fc0d941.png">
-2.
-
+2.Create a dictionary with our monsters
+<img width="316" alt="Снимок экрана 2022-06-14 в 15 37 06" src="https://user-images.githubusercontent.com/68229318/173578900-6bece45d-55c3-47c7-8b9d-00c55e722958.png">
+<img width="223" alt="Снимок экрана 2022-06-14 в 15 37 27" src="https://user-images.githubusercontent.com/68229318/173578913-3e8e5c7d-18f7-493a-966a-a1cd2364b597.png">
