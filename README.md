@@ -88,12 +88,12 @@ Done!
   they cannot be lost, 
   they cannot be changed.
 
-2. If we want to create a onFlow NFT, it is better to use resources for storing NFT's data.
+2.If we want to create a onFlow NFT, it is better to use resources for storing NFT's data.
 
-3. If we want to make new Resource we need to use "create" keyword.
+3.If we want to make new Resource we need to use "create" keyword.
 
-4. We can't craete a Resource with scripts or transactions, because it is outside(!) the Contract.
+4.We can't craete a Resource with scripts or transactions, because it is outside(!) the Contract.
 
-5. @Jacob
+5.@Jacob
 
 6.<img width="1102" alt="Снимок экрана 2022-06-21 в 17 15 20" src="https://user-images.githubusercontent.com/68229318/174822293-399929c5-770e-45eb-af77-e8ab9170c317.png">
