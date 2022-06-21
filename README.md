@@ -99,3 +99,41 @@ Done!
 6.<img width="1102" alt="Снимок экрана 2022-06-21 в 17 15 20" src="https://user-images.githubusercontent.com/68229318/174822293-399929c5-770e-45eb-af77-e8ab9170c317.png">
 
 ## chapter 3 day 2
+
+pub contract AnimalsNFT{
+    pub var arrayOfAnimals: @[Animals]
+    pub var dictionaryOfHolders: @{Address:Animals}
+
+    pub resource Animals {
+        pub let animal: String
+        pub let account: Address
+
+        init(){
+            self.animal = "Bear"
+            self.account = 0x05
+        }
+    }
+    pub fun addAnimal(animal: @Animals){
+        self.arrayOfAnimals.append (<- animal)
+    }
+
+    pub fun removeAnimal(index: Int): @Animals{
+        return <- self.arrayOfAnimals.remove(at: index)
+    }
+
+    pub fun addHolder(holder: @Animals) {
+        let key = holder.account
+        let oldHolder <- self.dictionaryOfHolders[key] <- holder
+        destroy oldHolder
+    }
+
+    pub fun removeHolder(key: Address): @Animals {
+        let holder <- self.dictionaryOfHolders.remove(key: key) ?? panic("We don't have the address")
+        return <- holder
+    }
+
+    init(){
+        self.arrayOfAnimals <- []
+        self.dictionaryOfHolders <- {}
+    }
+}
