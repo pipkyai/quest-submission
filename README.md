@@ -102,28 +102,28 @@ Done!
 
 1.List of accounts with Bears NFT
 
-pub contract AnimalsNFT{
-    pub var arrayOfAnimals: @[Animals]
-    pub var dictionaryOfHolders: @{Address:Animals}
+    pub contract AnimalsNFT {
+      pub var arrayOfAnimals: @[Animals]
+      pub var dictionaryOfHolders: @{Address:Animals}
 
-    pub resource Animals {
-        pub let animal: String
-        pub let account: Address
+      pub resource Animals {
+         pub let animal: String
+         pub let account: Address
 
         init(){
-            self.animal = "Bear"
-            self.account = 0x05
-        }
-    }
-    pub fun addAnimal(animal: @Animals){
-        self.arrayOfAnimals.append (<- animal)
-    }
+             self.animal = "Bear"
+             self.account = 0x05
+         }
+      }
+      pub fun addAnimal(animal: @Animals){
+         self.arrayOfAnimals.append (<- animal)
+      }
 
-    pub fun removeAnimal(index: Int): @Animals{
+      pub fun removeAnimal(index: Int): @Animals{
         return <- self.arrayOfAnimals.remove(at: index)
-    }
+      }
 
-    pub fun addHolder(holder: @Animals) {
+      pub fun addHolder(holder: @Animals) {
         let key = holder.account
         let oldHolder <- self.dictionaryOfHolders[key] <- holder
         destroy oldHolder
@@ -137,5 +137,4 @@ pub contract AnimalsNFT{
     init(){
         self.arrayOfAnimals <- []
         self.dictionaryOfHolders <- {}
-    }
-}
+    }}
