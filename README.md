@@ -79,3 +79,22 @@ Done!
 
 5. Let's take a look at the monsters that users have created
 <img width="1152" alt="Снимок экрана 2022-06-14 в 16 19 15" src="https://user-images.githubusercontent.com/68229318/173587308-46394cf6-f6c6-47c5-9685-8242763af31a.png">
+
+
+## chapter 3 day 1
+
+1.Resources are more secure in general than structs because : 
+  they cannot be copied, 
+  they cannot be lost, 
+  they cannot be changed.
+
+2. If we want to create a onFlow NFT, it is better to use resources for storing NFT's data.
+
+3. If we want to make new Resource we need to use "create" keyword.
+
+4. We can't craete a Resource with scripts or transactions, because it is outside(!) the Contract.
+
+5. @Jacob
+
+6.
+<img width="1102" alt="Снимок экрана 2022-06-21 в 17 15 20" src="https://user-images.githubusercontent.com/68229318/174822293-399929c5-770e-45eb-af77-e8ab9170c317.png">
