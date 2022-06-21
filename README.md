@@ -100,6 +100,8 @@ Done!
 
 ## chapter 3 day 2
 
+1.List of accounts with Bears NFT
+
 pub contract AnimalsNFT{
     pub var arrayOfAnimals: @[Animals]
     pub var dictionaryOfHolders: @{Address:Animals}
