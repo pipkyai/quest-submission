@@ -129,7 +129,7 @@ Done!
         destroy oldHolder
     }
 
-    pub fun removeHolder(key: Address): @Animals {
+      pub fun removeHolder(key: Address): @Animals {
         let holder <- self.dictionaryOfHolders.remove(key: key) ?? panic("We don't have the address")
         return <- holder
     }
