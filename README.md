@@ -97,3 +97,5 @@ Done!
 5.@Jacob
 
 6.<img width="1102" alt="Снимок экрана 2022-06-21 в 17 15 20" src="https://user-images.githubusercontent.com/68229318/174822293-399929c5-770e-45eb-af77-e8ab9170c317.png">
+
+## chapter 3 day 2
